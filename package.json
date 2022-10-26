@@ -1,0 +1,15 @@
+{
+  "name": "deviant-bot",
+  "version": "1.0.0",
+  "description": "Bot for publishing some arts on the DeviantArt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Tribunskiy <alextrio.2224@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "puppeteer": "^19.0.0"
+  }
+}
