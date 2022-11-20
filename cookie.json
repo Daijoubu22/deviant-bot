@@ -1,46 +1,37 @@
 [
   {
-    "name": "tw",
-    "value": "%7B%22gallery%22%3A1693%7D",
-    "domain": ".deviantart.com",
-    "path": "/",
-    "expires": 1666890300,
-    "httpOnly": false,
-    "secure": false
-  },
-  {
     "name": "auth",
-    "value": "__8413fb4044ce680c0982%3B%22a494cefa0fdf9262f79f401fc8da4bbc%22",
+    "value": "__116105bf49f26f11caf8%3B%22d0e572338c72c620c8c28c830a5fb235%22",
     "domain": ".deviantart.com",
     "path": "/",
-    "expires": 1668889079.665859,
+    "expires": 1671540553.400827,
     "httpOnly": true,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "auth_secure",
-    "value": "__b3585db2788ce86e7392%3B%224911dd3fa71b5aa847094726c38677e1%22",
+    "value": "__4fa0050a784b1e8d4c2d%3B%2244baaba885a617b134e6780d85e8c70c%22",
     "domain": ".deviantart.com",
     "path": "/",
-    "expires": 1700857079.665964,
+    "expires": 1703508553.400913,
     "httpOnly": true,
     "secure": true,
     "sameSite": "Lax"
   },
   {
     "name": "userinfo",
-    "value": "__5bfef896504af03b9a60%3B%7B%22username%22%3A%22Tumaatt%22%2C%22uniqueid%22%3A%2295685abbc420d79847d2bbcc902d9cb1%22%2C%22dvs9-1%22%3A1%2C%22ab%22%3A%22tao-nwc-1-a-3%7Ctao-ph1-1-a-9%22%2C%22pv%22%3A%22c%3D1%2C1%2C1%2C1%22%7D",
+    "value": "__1d94ccd6a715d113263f%3B%7B%22username%22%3A%22Tumaatt%22%2C%22uniqueid%22%3A%2231bf887265f8e540482354d8757da29a%22%2C%22dvs9-1%22%3A1%2C%22ab%22%3A%22tao-wf1-1-b-1%7Ctao-nce-1-b-8%7Ctao-smc-1-a-8%7Ctao-bv4-1-a-8%7Ctao-sdd-1-b-9%7Ctao-fh9-1-a-2%7Ctao-acs-1-a-3%22%2C%22pv%22%3A%22c%3D1%2C1%2C1%2C1%22%7D",
     "domain": ".deviantart.com",
     "path": "/",
-    "expires": 1668889079.666037,
+    "expires": 1671540553.400965,
     "httpOnly": false,
     "secure": false,
     "sameSite": "Lax"
   },
   {
     "name": "td",
-    "value": "0:1785%3B3:1125%3B6:801x619%3B7:1753%3B10:1125%3B11:536%3B12:1357x887%3B18:1136%3B20:1761",
+    "value": "3:1123%3B6:699x707%3B7:1751%3B12:1255x975%3B20:1759",
     "domain": ".deviantart.com",
     "path": "/",
     "expires": -1,
@@ -50,10 +41,10 @@
   },
   {
     "name": "vd",
-    "value": "__17e4c6e577ca3b53a869%3B%22BjUX8Y%2CBjUX8Y%2CA%2C4%2CA%2C%2CB%2CA%2CB%2CBjUaF3%2CBjUaz5%2CA%2CA%2CA%2CA%2C13%2CA%2CB%2CA%2CA%2CA%2CA%2CB%2CA%2CA%2C%22",
+    "value": "__50ee2af6d39bcbddae20%3B%22BjcR12%2CBjehe%2B%2CA%2CZ%2CA%2C%2CB%2CA%2CB%2CBjehe%2B%2CBjeiJL%2CA%2CA%2CJ%2CA%2C13%2CA%2CB%2CA%2CA%2CA%2CA%2CB%2CA%2CA%2C%22",
     "domain": ".deviantart.com",
     "path": "/",
-    "expires": 1668889081.724463,
+    "expires": 1671540555.281121,
     "httpOnly": true,
     "secure": false,
     "sameSite": "Lax"
